@@ -1,0 +1,4 @@
+nose
+sphinx
+httplib2
+os
